@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Quan Tran. Welcome to my github
+
+Here you can find some interesting stuffs in ML / DL
+- CNN-based projects
+- Graph Neural Networks
+- Self-research and experiments
+- And more
+
 
 <!--
 **tranminhquan/tranminhquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
