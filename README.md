@@ -3,8 +3,12 @@
 Here you can find some interesting stuffs in ML / DL
 - CNN-based projects
 - Graph Neural Networks
-- Self-research and experiments
+- Self-research and experiments in Computer Vision and Deep Learning
 - And more
+
+Contact
+- Email: quantran.cv@gmail.com
+- Linkedin: [Quan Tran-Minh](https://www.linkedin.com/in/tranminhquan1201/)
 
 
 <!--
