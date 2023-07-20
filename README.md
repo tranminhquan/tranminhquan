@@ -10,6 +10,8 @@ Contact
 - Email: quantran.cv@gmail.com
 - Linkedin: [Quan Tran-Minh](https://www.linkedin.com/in/tranminhquan1201/)
 
+My sharings
+[- https://tranminhquan.github.io](https://tranminhquan.github.io/)
 
 <!--
 **tranminhquan/tranminhquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
